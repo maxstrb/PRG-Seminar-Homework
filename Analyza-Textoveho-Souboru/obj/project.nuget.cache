@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBHVNLH4BFoQLKuoR+wLLzHBPvlGDzpsKfpWNOrYLHSUENqpoyzDijV3BcnpXOkGXMkjstuWEUWFBawxxai+tw==",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/Analyza-Textoveho-Souboru.csproj",
+  "expectedPackageFiles": [
+    "/home/maxag/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

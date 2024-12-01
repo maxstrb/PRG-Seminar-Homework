@@ -1,0 +1,14 @@
+/removable/Projekty/C-Sharp/Tree/bin/Debug/net8.0/Tree
+/removable/Projekty/C-Sharp/Tree/bin/Debug/net8.0/Tree.deps.json
+/removable/Projekty/C-Sharp/Tree/bin/Debug/net8.0/Tree.runtimeconfig.json
+/removable/Projekty/C-Sharp/Tree/bin/Debug/net8.0/Tree.dll
+/removable/Projekty/C-Sharp/Tree/bin/Debug/net8.0/Tree.pdb
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.GeneratedMSBuildEditorConfig.editorconfig
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.AssemblyInfoInputs.cache
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.AssemblyInfo.cs
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.csproj.CoreCompileInputs.cache
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.dll
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/refint/Tree.dll
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.pdb
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/Tree.genruntimeconfig.cache
+/removable/Projekty/C-Sharp/Tree/obj/Debug/net8.0/ref/Tree.dll

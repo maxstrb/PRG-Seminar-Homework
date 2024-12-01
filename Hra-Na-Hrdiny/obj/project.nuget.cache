@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRGPUgbGQqxnK8CuAAs+L3yj0RbyYvP3WagYZ18rRzCDaaHTtUGIWW2pHpAWjyZjl/604FbJVuXfDd1r4U00AQ==",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/Hra/Hra.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

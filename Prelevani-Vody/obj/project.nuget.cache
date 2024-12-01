@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cPky6FUKDVcIDWvblOjZUSasx+LM6v6MdGU5Nj4GkF6PjgXbfWeJQaP5U8Wm5QYtpfR9YYGsthzIyZPsCHf7A==",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/BonusWater/BonusWater.csproj",
+  "expectedPackageFiles": [
+    "/home/maxag/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

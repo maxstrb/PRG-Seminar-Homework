@@ -1,0 +1,2 @@
+/mnt/removable/Projekty/C-Sharp/Hra/bin/Release/net8.0/win-x64/publish/Hra.pdb
+/mnt/removable/Projekty/C-Sharp/Hra/bin/Release/net8.0/win-x64/publish/Hra.exe

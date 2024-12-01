@@ -1,0 +1,14 @@
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.AssemblyInfoInputs.cache
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.AssemblyInfo.cs
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.csproj.CoreCompileInputs.cache
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/bin/Debug/net8.0/Analyza-Textoveho-Souboru
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/bin/Debug/net8.0/Analyza-Textoveho-Souboru.deps.json
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/bin/Debug/net8.0/Analyza-Textoveho-Souboru.runtimeconfig.json
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/bin/Debug/net8.0/Analyza-Textoveho-Souboru.dll
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/bin/Debug/net8.0/Analyza-Textoveho-Souboru.pdb
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.dll
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/refint/Analyza-Textoveho-Souboru.dll
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.pdb
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/Analyza-Textoveho-Souboru.genruntimeconfig.cache
+/mnt/removable/Projekty/C-Sharp/Analyza-Textoveho-Souboru/obj/Debug/net8.0/ref/Analyza-Textoveho-Souboru.dll

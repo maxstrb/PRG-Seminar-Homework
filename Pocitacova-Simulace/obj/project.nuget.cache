@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaOMsje+0fk307RMAoO4ZBBZayVcZxq3IxnmZ8v+z1cEDo1N7jvN+aFHKergTDDVnAC2C0mMp0z9/swRYfLopw==",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/Simulace-Pisek.csproj",
+  "expectedPackageFiles": [
+    "/home/maxag/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

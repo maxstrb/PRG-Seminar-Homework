@@ -1,0 +1,14 @@
+/removable/Projekty/C-Sharp/QuickSort/bin/Debug/net8.0/QuickSort
+/removable/Projekty/C-Sharp/QuickSort/bin/Debug/net8.0/QuickSort.deps.json
+/removable/Projekty/C-Sharp/QuickSort/bin/Debug/net8.0/QuickSort.runtimeconfig.json
+/removable/Projekty/C-Sharp/QuickSort/bin/Debug/net8.0/QuickSort.dll
+/removable/Projekty/C-Sharp/QuickSort/bin/Debug/net8.0/QuickSort.pdb
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfoInputs.cache
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfo.cs
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.csproj.CoreCompileInputs.cache
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.dll
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/refint/QuickSort.dll
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.pdb
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/QuickSort.genruntimeconfig.cache
+/removable/Projekty/C-Sharp/QuickSort/obj/Debug/net8.0/ref/QuickSort.dll

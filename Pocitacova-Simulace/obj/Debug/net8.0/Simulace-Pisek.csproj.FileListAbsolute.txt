@@ -1,0 +1,15 @@
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/bin/Debug/net8.0/Simulace-Pisek
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/bin/Debug/net8.0/Simulace-Pisek.deps.json
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/bin/Debug/net8.0/Simulace-Pisek.runtimeconfig.json
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/bin/Debug/net8.0/Simulace-Pisek.dll
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/bin/Debug/net8.0/Simulace-Pisek.pdb
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.AssemblyInfoInputs.cache
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.AssemblyInfo.cs
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.csproj.CoreCompileInputs.cache
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.sourcelink.json
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.dll
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/refint/Simulace-Pisek.dll
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.pdb
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/Simulace-Pisek.genruntimeconfig.cache
+/mnt/removable/Projekty/C-Sharp/Pocitacova-Simulace/obj/Debug/net8.0/ref/Simulace-Pisek.dll

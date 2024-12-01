@@ -1,0 +1,14 @@
+/removable/Projekty/C-Sharp/Alphabet/bin/Debug/net8.0/Alphabet
+/removable/Projekty/C-Sharp/Alphabet/bin/Debug/net8.0/Alphabet.deps.json
+/removable/Projekty/C-Sharp/Alphabet/bin/Debug/net8.0/Alphabet.runtimeconfig.json
+/removable/Projekty/C-Sharp/Alphabet/bin/Debug/net8.0/Alphabet.dll
+/removable/Projekty/C-Sharp/Alphabet/bin/Debug/net8.0/Alphabet.pdb
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.AssemblyInfoInputs.cache
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.AssemblyInfo.cs
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.csproj.CoreCompileInputs.cache
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.dll
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/refint/Alphabet.dll
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.pdb
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/Alphabet.genruntimeconfig.cache
+/removable/Projekty/C-Sharp/Alphabet/obj/Debug/net8.0/ref/Alphabet.dll

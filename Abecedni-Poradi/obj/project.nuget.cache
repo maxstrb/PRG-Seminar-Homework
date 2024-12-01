@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UIaScCTj7SoF1Gbdg2KaWqS4ObbFAN1mKbWLKG3Y6gAuzmLf86cq0iK/CrqpBohTLj08D2XNYkmMar5ocpWKg==",
+  "success": true,
+  "projectFilePath": "/removable/Projekty/C-Sharp/Alphabet/Alphabet.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

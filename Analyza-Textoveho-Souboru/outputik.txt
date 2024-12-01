@@ -1,0 +1,17 @@
+﻿Počet slov: 9
+Počet nebílých znaků: 50
+Počet znaků: 86
+Slova v pořadí:
+hello there! G3n3r41 
+
+K3nöbi
+
+hello K3nöbi 
+hello
+hello
+hello
+Slova s počtem:
+	hello: 5
+	there!: 1
+	G3n3r41: 1
+	K3nöbi: 2

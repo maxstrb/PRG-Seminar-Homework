@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmPyq11VrFnqfJuJsx8puA3kE1eX9V9X/2w0ForhKjZNkQbxz+kdwkQHEkD5xtAOBuChwrR3Vy+A1HaBibNogg==",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/HTML-Ctecka.csproj",
+  "expectedPackageFiles": [
+    "/home/maxag/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/bin/Debug/net8.0/HTML-Ctecka
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/bin/Debug/net8.0/HTML-Ctecka.deps.json
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/bin/Debug/net8.0/HTML-Ctecka.runtimeconfig.json
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/bin/Debug/net8.0/HTML-Ctecka.dll
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/bin/Debug/net8.0/HTML-Ctecka.pdb
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.AssemblyInfoInputs.cache
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.AssemblyInfo.cs
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.csproj.CoreCompileInputs.cache
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.sourcelink.json
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.dll
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/refint/HTML-Ctecka.dll
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.pdb
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/HTML-Ctecka.genruntimeconfig.cache
+/mnt/removable/Projekty/C-Sharp/HTML-Ctecka/obj/Debug/net8.0/ref/HTML-Ctecka.dll

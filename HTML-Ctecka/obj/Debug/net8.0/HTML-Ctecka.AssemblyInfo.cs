@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HTML-Ctecka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c07fec0897729f6faa802a4d1bd6596425962983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d0d0db8c28c0535f7357901efa2fd13c51843af")]
 [assembly: System.Reflection.AssemblyProductAttribute("HTML-Ctecka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HTML-Ctecka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@ namespace HTMLCtecka
             using HttpClient client = new();
             try
             {
-                HttpResponseMessage response = await client.GetAsync("https://xkcd.com/2519/");
+                HttpResponseMessage response = await client.GetAsync("https://xkcd.com/39/");
                 response.EnsureSuccessStatusCode();
                 TextReader htmlContent = new StreamReader(response.Content.ReadAsStream());
 
@@ -28,23 +28,23 @@ namespace HTMLCtecka
     }
 
     class Reader : IDisposable {
-    readonly TextReader sr;
-    readonly char[] character_buffer;
-    int number_of_correct_character_in_a_row = 0;
-    int current_character_index = -1;
-    int number_of_read_characters;
+        readonly TextReader tr;
+        readonly char[] character_buffer;
+        int number_of_correct_character_in_a_row = 0;
+        int current_character_index = -1;
+        int number_of_read_characters;
 
-    public Reader(TextReader reader, int buffer_size) {
-        sr = reader ?? throw new ArgumentNullException(nameof(reader));
-        character_buffer = new char[buffer_size];
+        public Reader(TextReader reader, int buffer_size) {
+            tr = reader ?? throw new ArgumentNullException(nameof(reader));
+            character_buffer = new char[buffer_size];
 
-        number_of_read_characters = sr.ReadBlock(character_buffer, 0, buffer_size);
-    }
+            number_of_read_characters = tr.ReadBlock(character_buffer, 0, buffer_size);
+        }
 
         char? NextChar(){
             if (current_character_index + 1 >= number_of_read_characters){
                 if (number_of_read_characters >= character_buffer.Length){
-                    number_of_read_characters = sr.ReadBlock(character_buffer);
+                    number_of_read_characters = tr.ReadBlock(character_buffer);
                     current_character_index = 0;
 
                     if (number_of_read_characters == 0){
@@ -101,7 +101,7 @@ namespace HTMLCtecka
         }
 
         public void Dispose() {
-            sr?.Dispose();
+            tr?.Dispose();
         }
     }
 }

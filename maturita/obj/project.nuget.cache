@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDxx2ZZkuytgwAMfriV1uZ7tWmvzGx2cKgJDlx48FqG2g1u/nir55qkPSuXDUzdm1VSbjqsUoh0eT2ctadOCBA==",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/maturita/maturita.csproj",
+  "expectedPackageFiles": [
+    "/home/maxag/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

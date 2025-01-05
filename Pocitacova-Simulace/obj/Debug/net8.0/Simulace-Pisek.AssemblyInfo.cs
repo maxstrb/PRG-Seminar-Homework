@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulace-Pisek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d0d0db8c28c0535f7357901efa2fd13c51843af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c68647fb3472a16fd5b793a48b19b3f73b1b797")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulace-Pisek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulace-Pisek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

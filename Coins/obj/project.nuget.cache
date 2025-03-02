@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpQWY31FZGc=",
+  "success": true,
+  "projectFilePath": "/mnt/removable/Projekty/C-Sharp/Coins/Coins.csproj",
+  "expectedPackageFiles": [
+    "/home/maxag/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/maxag/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

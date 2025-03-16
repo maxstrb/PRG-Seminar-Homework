@@ -41,3 +41,4 @@
 /mnt/removable/Projekty/C-Sharp/Coins/bin/Debug/net8.0/Coins.pdb
 /mnt/removable/Projekty/C-Sharp/Coins/obj/Debug/net8.0/Coins.genruntimeconfig.cache
 /mnt/removable/Projekty/C-Sharp/Coins/obj/Debug/net8.0/ref/Coins.dll
+/home/maxag/School/ProgrammingSeminar/Coins/obj/Debug/net8.0/Coins.sourcelink.json

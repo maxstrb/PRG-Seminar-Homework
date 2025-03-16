@@ -1,0 +1,15 @@
+/home/maxag/School/ProgrammingSeminar/BatohV2/bin/Debug/net8.0/BatohV2
+/home/maxag/School/ProgrammingSeminar/BatohV2/bin/Debug/net8.0/BatohV2.deps.json
+/home/maxag/School/ProgrammingSeminar/BatohV2/bin/Debug/net8.0/BatohV2.runtimeconfig.json
+/home/maxag/School/ProgrammingSeminar/BatohV2/bin/Debug/net8.0/BatohV2.dll
+/home/maxag/School/ProgrammingSeminar/BatohV2/bin/Debug/net8.0/BatohV2.pdb
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.AssemblyInfoInputs.cache
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.AssemblyInfo.cs
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.csproj.CoreCompileInputs.cache
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.sourcelink.json
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.dll
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/refint/BatohV2.dll
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.pdb
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/BatohV2.genruntimeconfig.cache
+/home/maxag/School/ProgrammingSeminar/BatohV2/obj/Debug/net8.0/ref/BatohV2.dll

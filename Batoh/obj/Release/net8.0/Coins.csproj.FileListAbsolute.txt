@@ -1,0 +1,15 @@
+/home/maxag/School/ProgrammingSeminar/Batoh/bin/Release/net8.0/Coins
+/home/maxag/School/ProgrammingSeminar/Batoh/bin/Release/net8.0/Coins.deps.json
+/home/maxag/School/ProgrammingSeminar/Batoh/bin/Release/net8.0/Coins.runtimeconfig.json
+/home/maxag/School/ProgrammingSeminar/Batoh/bin/Release/net8.0/Coins.dll
+/home/maxag/School/ProgrammingSeminar/Batoh/bin/Release/net8.0/Coins.pdb
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.AssemblyInfoInputs.cache
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.AssemblyInfo.cs
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.csproj.CoreCompileInputs.cache
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.sourcelink.json
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.dll
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/refint/Coins.dll
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.pdb
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/Coins.genruntimeconfig.cache
+/home/maxag/School/ProgrammingSeminar/Batoh/obj/Release/net8.0/ref/Coins.dll

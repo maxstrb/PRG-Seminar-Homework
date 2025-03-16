@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/removable/Projekty/C-Sharp/Coins/Coins.csproj": {}
+    "/home/maxag/School/ProgrammingSeminar/Coins/Coins.csproj": {}
   },
   "projects": {
-    "/mnt/removable/Projekty/C-Sharp/Coins/Coins.csproj": {
+    "/home/maxag/School/ProgrammingSeminar/Coins/Coins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/removable/Projekty/C-Sharp/Coins/Coins.csproj",
+        "projectUniqueName": "/home/maxag/School/ProgrammingSeminar/Coins/Coins.csproj",
         "projectName": "Coins",
-        "projectPath": "/mnt/removable/Projekty/C-Sharp/Coins/Coins.csproj",
+        "projectPath": "/home/maxag/School/ProgrammingSeminar/Coins/Coins.csproj",
         "packagesPath": "/home/maxag/.nuget/packages/",
-        "outputPath": "/mnt/removable/Projekty/C-Sharp/Coins/obj/",
+        "outputPath": "/home/maxag/School/ProgrammingSeminar/Coins/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/maxag/.nuget/NuGet/NuGet.Config"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -54,22 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.13, 8.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/nix/store/n9bf5h3qchjbganyyshhyzpzziwc3361-dotnet-sdk-8.0.309/share/dotnet/sdk/8.0.309/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

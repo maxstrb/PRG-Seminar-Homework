@@ -15,8 +15,10 @@
         sb.Append((solution.Length == 0 ? "prázdná posloupnost" : string.Join(", ", solution)) + "\n\n");
       }
 
-      using StreamWriter sw = new("vystupy.txt");
-      sw.Write(sb.ToString().TrimEnd('\n'));
+      Console.WriteLine(sb.ToString().TrimEnd('\n'));
+      
+      /*using StreamWriter sw = new("vystupy.txt");
+      sw.Write(sb.ToString().TrimEnd('\n'));*/
     }
 
     static float[] Solve(float[]? input){

@@ -1,0 +1,15 @@
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.AssemblyInfoInputs.cache
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.AssemblyInfo.cs
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.csproj.CoreCompileInputs.cache
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.sourcelink.json
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/bin/Debug/net8.0/nejdelsirostoucipodmozina
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/bin/Debug/net8.0/nejdelsirostoucipodmozina.deps.json
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/bin/Debug/net8.0/nejdelsirostoucipodmozina.runtimeconfig.json
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/bin/Debug/net8.0/nejdelsirostoucipodmozina.dll
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/bin/Debug/net8.0/nejdelsirostoucipodmozina.pdb
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.dll
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/refint/nejdelsirostoucipodmozina.dll
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.pdb
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/nejdelsirostoucipodmozina.genruntimeconfig.cache
+/home/maxag/School/ProgrammingSeminar/nejdelsirostoucipodmozina/obj/Debug/net8.0/ref/nejdelsirostoucipodmozina.dll

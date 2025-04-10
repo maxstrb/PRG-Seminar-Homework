@@ -6,7 +6,7 @@
       using StreamReader sr = new("vstupy.txt");
       string input_file = sr.ReadToEnd();
 
-      float[]?[] input = input_file.Split("\n").Where((x, i) => i % 2 == 0).Select(x => x == "" ? null : x.Split().Select(float.Parse).ToArray()).ToArray();
+      float[]?[] input = input_file.Split(Environment.NewLine).Where((x, i) => i % 2 == 0).Select(x => x == "" ? null : x.Split().Select(float.Parse).ToArray()).ToArray();
 
       StringBuilder sb = new();
 

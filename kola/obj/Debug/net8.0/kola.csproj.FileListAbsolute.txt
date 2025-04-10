@@ -1,0 +1,15 @@
+/home/maxag/School/ProgrammingSeminar/kola/bin/Debug/net8.0/kola
+/home/maxag/School/ProgrammingSeminar/kola/bin/Debug/net8.0/kola.deps.json
+/home/maxag/School/ProgrammingSeminar/kola/bin/Debug/net8.0/kola.runtimeconfig.json
+/home/maxag/School/ProgrammingSeminar/kola/bin/Debug/net8.0/kola.dll
+/home/maxag/School/ProgrammingSeminar/kola/bin/Debug/net8.0/kola.pdb
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.AssemblyInfoInputs.cache
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.AssemblyInfo.cs
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.csproj.CoreCompileInputs.cache
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.sourcelink.json
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.dll
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/refint/kola.dll
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.pdb
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/kola.genruntimeconfig.cache
+/home/maxag/School/ProgrammingSeminar/kola/obj/Debug/net8.0/ref/kola.dll
